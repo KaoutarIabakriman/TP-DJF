@@ -44,5 +44,5 @@ Ce projet consiste en une application web complète permettant d'effectuer des o
 
 1. **Cloner le repository**
    ```bash
-   git clone <url-du-repository>
-   cd <nom-du-projet>
+   git clone https://github.com/KaoutarIabakriman/TP-DJF
+   cd TP-DJF
