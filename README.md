@@ -46,3 +46,8 @@ Ce projet consiste en une application web complète permettant d'effectuer des o
    ```bash
    git clone https://github.com/KaoutarIabakriman/TP-DJF
    cd TP-DJF
+1. **Lancer l'application**
+   ```bash
+   docker compose up --build 
+
+
